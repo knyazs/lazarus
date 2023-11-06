@@ -35,15 +35,6 @@ The division between these two planes ensures data security, user privacy, and t
 
 This dual-plane architecture not only empowers Lazarus to answer questions and create meaningful conversations but also underlines its commitment to safeguarding user data while delivering unparalleled AI-driven solutions.
 
-```mermaid
-graph LR;
-    Emails --> Lazarus;
-    Documents --> Lazarus;
-    Apps --> Lazarus;
-    APIs --> Lazarus;
-    Lazarus --> Interactions;
-    Lazarus --> Service Requests;
-```
 
 # Get Involved
 
